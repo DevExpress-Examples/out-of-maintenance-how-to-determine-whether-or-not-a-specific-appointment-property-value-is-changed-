@@ -24,7 +24,7 @@ Use **PropertyName** to determine the name of the modified property:
 
 ```vb
         Private Sub SchedulerStorage1_AppointmentChanging(ByVal sender As Object, ByVal e As PersistentObjectCancelEventArgs)
-            If CType(e, DevExpress.XtraScheduler.AdvPersistentObjectCancelEventArgs).PropertyName = ""LabelKey"" Then
+            If CType(e, DevExpress.XtraScheduler.AdvPersistentObjectCancelEventArgs).PropertyName = "LabelKey" Then
                 
             End If
         End Sub    
