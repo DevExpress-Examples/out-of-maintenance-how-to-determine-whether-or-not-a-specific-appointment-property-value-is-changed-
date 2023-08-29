@@ -51,8 +51,6 @@ Use **PropertyName** to determine the name of the modified property:
         }
 ```
 
-<p> </p><p>Note that a similar technique is used in the <a href="https://www.devexpress.com/Support/Center/p/E3792">How to split appointments into groups</a> example.</p>
-
 <br/>
 
 
